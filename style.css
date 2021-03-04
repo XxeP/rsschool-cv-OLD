@@ -1,9 +1,10 @@
 #photo {
-    width:auto;
     display: inline-block;
 }
+.img{
+    width: 300px;
+}
 #general {
-    width: 70%;
     display: inline-block;
 }
 #common {
