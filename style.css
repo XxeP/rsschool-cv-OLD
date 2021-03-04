@@ -1,0 +1,13 @@
+.wrapper {text-align: center;}
+#photo {
+    display: inline-block;
+}
+.photo{
+    width: 300px;
+}
+#general {
+    display: inline-block;
+}
+#common {
+    width: 100%;
+}
