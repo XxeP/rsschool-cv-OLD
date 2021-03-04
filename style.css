@@ -1,0 +1,11 @@
+#photo {
+    width:auto;
+    display: inline-block;
+}
+#general {
+    width: 70%;
+    display: inline-block;
+}
+#common {
+    width: 100%;
+}
