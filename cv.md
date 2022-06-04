@@ -1,4 +1,4 @@
-# CV for rsscholl JS FE 2021q1 courses 
+# CV for rsscholl JS FE 2022q1 courses 
 1. Nazarov Egor
 2. Telegram [http://t.me/justNEG](http://t.me/justNEG)
 3. For a long time I could not find the strength to fully start programming. In my repeated attempts to start learning programming, I gained a little experience, but still did not understand how people move from simple tasks to creating full-fledged projects. Using all kinds of CMS, I managed to create sites for friends and my own entertainment, but this always seemed not enough. Through isolation, at last the aspiration was strengthened by time. My goal is to acquire programming skills up to the middle level.
